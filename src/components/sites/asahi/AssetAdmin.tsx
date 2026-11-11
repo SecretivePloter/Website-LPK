@@ -196,7 +196,7 @@ export function AssetAdmin({
           <h2>Unggah gambar baru</h2>
           <form onSubmit={upload}>
             <label>
-              Gambar JPG, PNG, WebP (maks. 8 MB)
+              Gambar JPG, PNG, WebP (maks. 4 MB)
               <input
                 name="file"
                 type="file"

@@ -30,13 +30,17 @@ data/sources.json              Asal gambar seed
 runtime-data/                  Dibuat saat pertama kali admin menulis
 ```
 
-## Aliran data
+## Adapter Vercel Blob
+
+`src/lib/assets.ts` memilih Blob privat bila `BLOB_STORE_ID` atau `BLOB_READ_WRITE_TOKEN` tersedia. Tanpa konfigurasi ini, lokal/Docker tetap memakai disk. Penulisan di Vercel tanpa koneksi Blob ditolak, sehingga aplikasi tidak berpura-pura menyimpan pada disk sementara. Metadata di `website-lpk/assets.json`; file di `website-lpk/media/UUID.webp`. Penulisan metadata menggunakan ETag `ifMatch` dan maksimum lima retry. Callback `changeAssets` hanya boleh memodifikasi metadata karena dapat diputar ulang saat konflik. Upload media dilakukan terpisah sebelum perubahan manifest.
+
+## Aliran data lokal
 
 Server membaca manifest `DATA_DIR/assets.json`. Bila file belum ada, server menggunakan `data/assets.json`. Halaman publik dirender dinamis supaya perubahan aset tampak saat halaman dimuat ulang. Admin tidak memakai localStorage.
 
-Unggah memvalidasi sesi dan origin, menerima JPG/PNG/WebP maksimum 8 MB dan 25 juta pixel. Sharp memeriksa isi, memperbaiki orientasi, membatasi lebar 2400 px dan mengubahnya menjadi WebP. Nama file UUID menghindari nama/path kiriman pengguna. SVG dan dokumen tidak didukung.
+Unggah memvalidasi sesi dan origin, menerima JPG/PNG/WebP maksimum 4 MB dan 25 juta pixel. Sharp memeriksa isi, memperbaiki orientasi, membatasi lebar 2400 px dan mengubahnya menjadi WebP. Nama file UUID menghindari nama/path kiriman pengguna. SVG dan dokumen tidak didukung.
 
-Penulisan manifest memakai antrian proses dan rename atomik. Ini melindungi perubahan bersamaan pada satu proses. Untuk beberapa replica, pindahkan repositori ini ke database transaksi dan object storage, kemudian pertahankan kontrak `Asset` serta URL `/media` atau CDN.
+Penulisan manifest memakai antrian proses dan rename atomik. Ini melindungi perubahan bersamaan pada satu proses. Untuk beberapa replica, gunakan adapter Blob yang disediakan atau database transaksi dan object storage.
 
 ## Mengubah konten
 

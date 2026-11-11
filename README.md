@@ -57,6 +57,6 @@ Foto stok adalah ilustrasi, termasuk potret anggota organisasi. Jangan mengangga
 
 ## Penyimpanan
 
-Metadata dan unggahan admin tersimpan di `DATA_DIR`, default `runtime-data/`. Folder ini harus berada pada disk persisten. Implementasi JSON ini untuk **satu proses Node.js**, bukan beberapa replica atau filesystem serverless sementara. Peta mengambil tile OpenStreetMap melalui browser; gambar dan font situs tersedia lokal.
+Metadata dan unggahan admin tersimpan di `DATA_DIR`, default `runtime-data/`. Folder ini harus berada pada disk persisten. Adapter disk lokal ditujukan untuk **satu proses Node.js**. Pada Vercel, adapter otomatis memakai Blob privat bila `BLOB_STORE_ID` atau `BLOB_READ_WRITE_TOKEN` tersedia. Peta mengambil tile OpenStreetMap melalui browser; gambar dan font situs tersedia lokal.
 
-Tidak ada deployment hosting yang dilakukan oleh perubahan kode ini.
+Deployment produksi: https://website-lpk.vercel.app/. Pada Vercel, penyimpanan admin memakai Blob privat; lihat docs/DEPLOYMENT.md untuk aktivasi login.

@@ -1,4 +1,21 @@
-# Deployment dan operasional
+# Deployment Vercel
+
+Produksi: https://website-lpk.vercel.app/
+
+Proyek Vercel `website-lpk` terhubung ke `SecretivePloter/Website-LPK`, branch produksi `main`. Store Blob privat `website-lpk-assets` menyimpan manifest dan unggahan; credential koneksi dikelola oleh Vercel. Tidak ada credential dalam repository.
+
+## Mengaktifkan admin
+
+1. Buka proyek Vercel → Settings → Environment Variables.
+2. Tambahkan `ADMIN_PASSWORD` sebagai Secret untuk **Production**, dengan kata sandi unik milik Anda.
+3. `SESSION_SECRET` dan `APP_URL` telah dikonfigurasi pada proyek. Jangan menyalin secret ke kode atau mengirimkannya melalui chat.
+4. Redeploy deployment produksi agar environment baru berlaku, kemudian buka https://website-lpk.vercel.app/admin.
+
+Batas unggahan 4 MB agar di bawah batas request Functions Vercel. File tetap divalidasi dan dinormalisasi menjadi WebP. Manifest dibaca langsung dari origin Blob privat, dengan ETag/conditional write dan retry untuk mencegah overwrite perubahan antar instance. File gambar diteruskan melalui `/media/:name`; manifest Blob tidak dibuka publik. Penghapusan dari daftar tetap menyimpan file asli untuk pemulihan.
+
+Mengganti domain memerlukan pembaruan `APP_URL` menjadi origin HTTPS baru dan redeploy. Pengaturan kata sandi tidak diperlukan agar halaman publik berfungsi. Uji lokal mencakup adapter disk; uji login/unggah Blob produksi perlu dilakukan setelah `ADMIN_PASSWORD` diisi.
+
+## Menjalankan di server dengan disk persisten
 
 ## Pilihan yang didukung
 
@@ -19,7 +36,7 @@ npm run test:integration
 npm start
 ```
 
-Pasang reverse proxy HTTPS ke port 3000. Tetapkan batas request body sekitar 9 MB pada proxy. Pastikan origin `APP_URL` sama dengan URL akses admin. Cookie produksi Secure memerlukan HTTPS di browser. Batasi login di reverse proxy bila diperlukan. Jangan mengekspos port development ke publik.
+Pasang reverse proxy HTTPS ke port 3000. Tetapkan batas request body sekitar 4.25 MB pada proxy. Pastikan origin `APP_URL` sama dengan URL akses admin. Cookie produksi Secure memerlukan HTTPS di browser. Batasi login di reverse proxy bila diperlukan. Jangan mengekspos port development ke publik.
 
 Service manager harus menjalankan satu proses dengan working directory proyek dan izin tulis `DATA_DIR`. Jangan menggunakan user root untuk proses aplikasi. Simpan env di server dan jangan memasukkannya ke image, repo atau log.
 
