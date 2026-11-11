@@ -1,7 +1,9 @@
 # Panduan admin gambar
 
+Pada deployment Vercel, lihat docs/DEPLOYMENT.md untuk menetapkan `ADMIN_PASSWORD`. Unggahan dan metadata disimpan di Blob privat, bukan disk function.
+
 1. Pengelola server mengisi `.env.local`, lalu memulai ulang server. Buka `/admin` dan masuk dengan `ADMIN_PASSWORD`.
-2. Unggah JPG, PNG atau WebP maksimal 8 MB. Isi judul, alt yang menjelaskan gambar, dan kategori. Server mengubah file menjadi WebP.
+2. Unggah JPG, PNG atau WebP maksimal 4 MB. Isi judul, alt yang menjelaskan gambar, dan kategori. Server mengubah file menjadi WebP.
 3. Gunakan pencarian atau filter kategori untuk menemukan aset. Klik **Edit / Tempatkan**.
 4. Ubah judul, teks alternatif, kategori dan urutan. Angka urutan lebih kecil tampil lebih awal.
 5. Pilih penempatan dan simpan. Muat ulang halaman publik untuk melihat perubahan.
