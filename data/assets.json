@@ -1,0 +1,1592 @@
+[
+  {
+    "id": "logo",
+    "title": "Logo Asahi",
+    "alt": "Logo Asahi",
+    "category": "Identitas",
+    "src": "/sites/asahi/logo.png",
+    "slot": "logo",
+    "order": 0,
+    "source": "Situs referensi"
+  },
+  {
+    "id": "hero-background",
+    "title": "Latar Jepang",
+    "alt": "Latar Jepang",
+    "category": "Identitas",
+    "src": "/sites/asahi/hero-background.png",
+    "slot": "hero-background",
+    "order": 1,
+    "source": "Situs referensi"
+  },
+  {
+    "id": "hero-art",
+    "title": "Ilustrasi profesi Jepang",
+    "alt": "Ilustrasi profesi Jepang",
+    "category": "Identitas",
+    "src": "/sites/asahi/hero-art.png",
+    "slot": "hero-art",
+    "order": 2,
+    "source": "Situs referensi"
+  },
+  {
+    "id": "profile",
+    "title": "Kegiatan pembelajaran",
+    "alt": "Kegiatan pembelajaran",
+    "category": "Identitas",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "profile",
+    "order": 3,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "profile-small",
+    "title": "Ruang belajar",
+    "alt": "Ruang belajar",
+    "category": "Identitas",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "profile-small",
+    "order": 4,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "footer",
+    "title": "Latar Gunung Fuji",
+    "alt": "Latar Gunung Fuji",
+    "category": "Identitas",
+    "src": "/sites/asahi/stock-4.jpg",
+    "slot": "footer",
+    "order": 5,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "facility-0",
+    "title": "Ruang Kelas 1",
+    "alt": "Ruang Kelas 1",
+    "category": "Sarana",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "facility-0",
+    "order": 6,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "facility-1",
+    "title": "Ruang Kelas 2",
+    "alt": "Ruang Kelas 2",
+    "category": "Sarana",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "facility-1",
+    "order": 7,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "facility-2",
+    "title": "Ruang Kelas 3",
+    "alt": "Ruang Kelas 3",
+    "category": "Sarana",
+    "src": "/sites/asahi/stock-2.jpg",
+    "slot": "facility-2",
+    "order": 8,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "facility-3",
+    "title": "Kantor",
+    "alt": "Kantor",
+    "category": "Sarana",
+    "src": "/sites/asahi/stock-3.jpg",
+    "slot": "facility-3",
+    "order": 9,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "facility-4",
+    "title": "Ruang Interview Job",
+    "alt": "Ruang Interview Job",
+    "category": "Sarana",
+    "src": "/sites/asahi/stock-4.jpg",
+    "slot": "facility-4",
+    "order": 10,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "facility-5",
+    "title": "Asrama laki-laki",
+    "alt": "Asrama laki-laki",
+    "category": "Sarana",
+    "src": "/sites/asahi/stock-5.jpg",
+    "slot": "facility-5",
+    "order": 11,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "facility-6",
+    "title": "Lapangan Olahraga",
+    "alt": "Lapangan Olahraga",
+    "category": "Sarana",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "facility-6",
+    "order": 12,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "facility-7",
+    "title": "Mushola",
+    "alt": "Mushola",
+    "category": "Sarana",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "facility-7",
+    "order": 13,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "program-20",
+    "title": "Katawaku",
+    "alt": "Katawaku",
+    "category": "Program",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "program-20",
+    "order": 14,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "program-19",
+    "title": "Plastic Moulding",
+    "alt": "Plastic Moulding",
+    "category": "Program",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "program-19",
+    "order": 15,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "program-18",
+    "title": "Ground Handling",
+    "alt": "Ground Handling",
+    "category": "Program",
+    "src": "/sites/asahi/stock-2.jpg",
+    "slot": "program-18",
+    "order": 16,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "program-17",
+    "title": "Job Tobi (Kontruksi)",
+    "alt": "Job Tobi (Kontruksi)",
+    "category": "Program",
+    "src": "/sites/asahi/stock-3.jpg",
+    "slot": "program-17",
+    "order": 17,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "program-4",
+    "title": "Restoran",
+    "alt": "Restoran",
+    "category": "Program",
+    "src": "/sites/asahi/stock-4.jpg",
+    "slot": "program-4",
+    "order": 18,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "program-13",
+    "title": "Perhotelan",
+    "alt": "Perhotelan",
+    "category": "Program",
+    "src": "/sites/asahi/stock-5.jpg",
+    "slot": "program-13",
+    "order": 19,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "program-8",
+    "title": "Pertanian",
+    "alt": "Pertanian",
+    "category": "Program",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "program-8",
+    "order": 20,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "program-11",
+    "title": "Peternakan",
+    "alt": "Peternakan",
+    "category": "Program",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "program-11",
+    "order": 21,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "program-12",
+    "title": "Building Cleaning",
+    "alt": "Building Cleaning",
+    "category": "Program",
+    "src": "/sites/asahi/stock-2.jpg",
+    "slot": "program-12",
+    "order": 22,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "program-7",
+    "title": "Kagio",
+    "alt": "Kagio",
+    "category": "Program",
+    "src": "/sites/asahi/stock-3.jpg",
+    "slot": "program-7",
+    "order": 23,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "program-10",
+    "title": "Pengolahan Makanan",
+    "alt": "Pengolahan Makanan",
+    "category": "Program",
+    "src": "/sites/asahi/stock-4.jpg",
+    "slot": "program-10",
+    "order": 24,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "program-14",
+    "title": "Tes",
+    "alt": "Tes",
+    "category": "Program",
+    "src": "/sites/asahi/stock-5.jpg",
+    "slot": "program-14",
+    "order": 25,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "program-16",
+    "title": "Asahi",
+    "alt": "Asahi",
+    "category": "Program",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "program-16",
+    "order": 26,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "program-15",
+    "title": "tes",
+    "alt": "tes",
+    "category": "Program",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "program-15",
+    "order": 27,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "team-0",
+    "title": "Foto ilustrasi anggota tim",
+    "alt": "Foto ilustrasi anggota tim",
+    "category": "Organisasi",
+    "src": "/sites/asahi/stock-6.jpg",
+    "slot": "team-0",
+    "order": 46,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "team-1",
+    "title": "Foto ilustrasi anggota tim",
+    "alt": "Foto ilustrasi anggota tim",
+    "category": "Organisasi",
+    "src": "/sites/asahi/stock-7.jpg",
+    "slot": "team-1",
+    "order": 47,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "team-2",
+    "title": "Foto ilustrasi anggota tim",
+    "alt": "Foto ilustrasi anggota tim",
+    "category": "Organisasi",
+    "src": "/sites/asahi/stock-6.jpg",
+    "slot": "team-2",
+    "order": 48,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "team-3",
+    "title": "Foto ilustrasi anggota tim",
+    "alt": "Foto ilustrasi anggota tim",
+    "category": "Organisasi",
+    "src": "/sites/asahi/stock-7.jpg",
+    "slot": "team-3",
+    "order": 49,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "team-4",
+    "title": "Foto ilustrasi anggota tim",
+    "alt": "Foto ilustrasi anggota tim",
+    "category": "Organisasi",
+    "src": "/sites/asahi/stock-6.jpg",
+    "slot": "team-4",
+    "order": 50,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "team-5",
+    "title": "Foto ilustrasi anggota tim",
+    "alt": "Foto ilustrasi anggota tim",
+    "category": "Organisasi",
+    "src": "/sites/asahi/stock-7.jpg",
+    "slot": "team-5",
+    "order": 51,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "team-6",
+    "title": "Foto ilustrasi anggota tim",
+    "alt": "Foto ilustrasi anggota tim",
+    "category": "Organisasi",
+    "src": "/sites/asahi/stock-6.jpg",
+    "slot": "team-6",
+    "order": 52,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "team-7",
+    "title": "Foto ilustrasi anggota tim",
+    "alt": "Foto ilustrasi anggota tim",
+    "category": "Organisasi",
+    "src": "/sites/asahi/stock-7.jpg",
+    "slot": "team-7",
+    "order": 53,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "team-8",
+    "title": "Foto ilustrasi anggota tim",
+    "alt": "Foto ilustrasi anggota tim",
+    "category": "Organisasi",
+    "src": "/sites/asahi/stock-6.jpg",
+    "slot": "team-8",
+    "order": 54,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-0",
+    "title": "Bukber 2026",
+    "alt": "Bukber 2026 (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "",
+    "order": 100,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-1",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "",
+    "order": 101,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-2",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-2.jpg",
+    "slot": "",
+    "order": 102,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-3",
+    "title": "Camping",
+    "alt": "Camping (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-3.jpg",
+    "slot": "",
+    "order": 103,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-4",
+    "title": "Camping 2025",
+    "alt": "Camping 2025 (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-4.jpg",
+    "slot": "",
+    "order": 104,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-5",
+    "title": "camping 2026",
+    "alt": "camping 2026 (foto ilustrasi sementara)",
+    "category": "Foto Makrab",
+    "src": "/sites/asahi/stock-5.jpg",
+    "slot": "",
+    "order": 105,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-6",
+    "title": "camping",
+    "alt": "camping (foto ilustrasi sementara)",
+    "category": "Foto Makrab",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "",
+    "order": 106,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-7",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Makrab",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "",
+    "order": 107,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-8",
+    "title": "Rifki",
+    "alt": "Rifki (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-2.jpg",
+    "slot": "",
+    "order": 108,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-9",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-3.jpg",
+    "slot": "",
+    "order": 109,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-10",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-4.jpg",
+    "slot": "",
+    "order": 110,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-11",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-5.jpg",
+    "slot": "",
+    "order": 111,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-12",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "",
+    "order": 112,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-13",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "",
+    "order": 113,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-14",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-2.jpg",
+    "slot": "",
+    "order": 114,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-15",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-3.jpg",
+    "slot": "",
+    "order": 115,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-16",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-4.jpg",
+    "slot": "",
+    "order": 116,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-17",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-5.jpg",
+    "slot": "",
+    "order": 117,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-18",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "",
+    "order": 118,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-19",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "",
+    "order": 119,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-20",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-2.jpg",
+    "slot": "",
+    "order": 120,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-21",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-3.jpg",
+    "slot": "",
+    "order": 121,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-22",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-4.jpg",
+    "slot": "",
+    "order": 122,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-23",
+    "title": "Yedi & Risma",
+    "alt": "Yedi & Risma (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-5.jpg",
+    "slot": "",
+    "order": 123,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-24",
+    "title": "Yedi & Risma",
+    "alt": "Yedi & Risma (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "",
+    "order": 124,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-25",
+    "title": "COE turun",
+    "alt": "COE turun (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "",
+    "order": 125,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-26",
+    "title": "EDUFAIR SMANJA",
+    "alt": "EDUFAIR SMANJA (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-2.jpg",
+    "slot": "",
+    "order": 126,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-27",
+    "title": "edufair SMANJA",
+    "alt": "edufair SMANJA (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-3.jpg",
+    "slot": "",
+    "order": 127,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-28",
+    "title": "edufair 2026",
+    "alt": "edufair 2026 (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-4.jpg",
+    "slot": "",
+    "order": 128,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-29",
+    "title": "edufair 2026",
+    "alt": "edufair 2026 (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-5.jpg",
+    "slot": "",
+    "order": 129,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-30",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "",
+    "order": 130,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-31",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "",
+    "order": 131,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-32",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-2.jpg",
+    "slot": "",
+    "order": 132,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-33",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-3.jpg",
+    "slot": "",
+    "order": 133,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-34",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-4.jpg",
+    "slot": "",
+    "order": 134,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-35",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-5.jpg",
+    "slot": "",
+    "order": 135,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-36",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "",
+    "order": 136,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-37",
+    "title": "lulus job",
+    "alt": "lulus job (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "",
+    "order": 137,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-38",
+    "title": "Cut Waffa, Nagasaki",
+    "alt": "Cut Waffa, Nagasaki (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-2.jpg",
+    "slot": "",
+    "order": 138,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-39",
+    "title": "Iin narwati, Chiba",
+    "alt": "Iin narwati, Chiba (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-3.jpg",
+    "slot": "",
+    "order": 139,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-40",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-4.jpg",
+    "slot": "",
+    "order": 140,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-41",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-5.jpg",
+    "slot": "",
+    "order": 141,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-42",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "",
+    "order": 142,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-43",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "",
+    "order": 143,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-44",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-2.jpg",
+    "slot": "",
+    "order": 144,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-45",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-3.jpg",
+    "slot": "",
+    "order": 145,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-46",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-4.jpg",
+    "slot": "",
+    "order": 146,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-47",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-5.jpg",
+    "slot": "",
+    "order": 147,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-48",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "",
+    "order": 148,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-49",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "",
+    "order": 149,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-50",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-2.jpg",
+    "slot": "",
+    "order": 150,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-51",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-3.jpg",
+    "slot": "",
+    "order": 151,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-52",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-4.jpg",
+    "slot": "",
+    "order": 152,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-53",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-5.jpg",
+    "slot": "",
+    "order": 153,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-54",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "",
+    "order": 154,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-55",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "",
+    "order": 155,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-56",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-2.jpg",
+    "slot": "",
+    "order": 156,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-57",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-3.jpg",
+    "slot": "",
+    "order": 157,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-58",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-4.jpg",
+    "slot": "",
+    "order": 158,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-59",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-5.jpg",
+    "slot": "",
+    "order": 159,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-60",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "",
+    "order": 160,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-61",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "",
+    "order": 161,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-62",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-2.jpg",
+    "slot": "",
+    "order": 162,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-63",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-3.jpg",
+    "slot": "",
+    "order": 163,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-64",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-4.jpg",
+    "slot": "",
+    "order": 164,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-65",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-5.jpg",
+    "slot": "",
+    "order": 165,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-66",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "",
+    "order": 166,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-67",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "",
+    "order": 167,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-68",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-2.jpg",
+    "slot": "",
+    "order": 168,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-69",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-3.jpg",
+    "slot": "",
+    "order": 169,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-70",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-4.jpg",
+    "slot": "",
+    "order": 170,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-71",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-5.jpg",
+    "slot": "",
+    "order": 171,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-72",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "",
+    "order": 172,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-73",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "",
+    "order": 173,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-74",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-2.jpg",
+    "slot": "",
+    "order": 174,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-75",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-3.jpg",
+    "slot": "",
+    "order": 175,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-76",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-4.jpg",
+    "slot": "",
+    "order": 176,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-77",
+    "title": "Sahrul, Aomori",
+    "alt": "Sahrul, Aomori (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-5.jpg",
+    "slot": "",
+    "order": 177,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-78",
+    "title": "Fitria Risna,",
+    "alt": "Fitria Risna, (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "",
+    "order": 178,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-79",
+    "title": "Rizki, Aomori",
+    "alt": "Rizki, Aomori (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "",
+    "order": 179,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-80",
+    "title": "Salsabilah, Tokyo",
+    "alt": "Salsabilah, Tokyo (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-2.jpg",
+    "slot": "",
+    "order": 180,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-81",
+    "title": "Reuni kagoshima Idul Fitri 2024",
+    "alt": "Reuni kagoshima Idul Fitri 2024 (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-3.jpg",
+    "slot": "",
+    "order": 181,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-82",
+    "title": "Iya Triana, Kagoshima",
+    "alt": "Iya Triana, Kagoshima (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-4.jpg",
+    "slot": "",
+    "order": 182,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-83",
+    "title": "Bilal. Kuamoto",
+    "alt": "Bilal. Kuamoto (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-5.jpg",
+    "slot": "",
+    "order": 183,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-84",
+    "title": "Deden, Aichi",
+    "alt": "Deden, Aichi (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "",
+    "order": 184,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-85",
+    "title": "Nugroho CS. Tokyo",
+    "alt": "Nugroho CS. Tokyo (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "",
+    "order": 185,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-86",
+    "title": "Sri Rahayu, Iwate",
+    "alt": "Sri Rahayu, Iwate (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-2.jpg",
+    "slot": "",
+    "order": 186,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-87",
+    "title": "Yulianti, Hokkaido",
+    "alt": "Yulianti, Hokkaido (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-3.jpg",
+    "slot": "",
+    "order": 187,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-88",
+    "title": "Fitri, Fukuoka",
+    "alt": "Fitri, Fukuoka (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-4.jpg",
+    "slot": "",
+    "order": 188,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-89",
+    "title": "Alya, Aichi",
+    "alt": "Alya, Aichi (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-5.jpg",
+    "slot": "",
+    "order": 189,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-90",
+    "title": "Diani, Kumamoto",
+    "alt": "Diani, Kumamoto (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "",
+    "order": 190,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-91",
+    "title": "Ikbal Orlando, Aichi",
+    "alt": "Ikbal Orlando, Aichi (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "",
+    "order": 191,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-92",
+    "title": "Muh. Hartono Hokkaido",
+    "alt": "Muh. Hartono Hokkaido (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-2.jpg",
+    "slot": "",
+    "order": 192,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-93",
+    "title": "nabila Putri, Fukuoka",
+    "alt": "nabila Putri, Fukuoka (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-3.jpg",
+    "slot": "",
+    "order": 193,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-94",
+    "title": "Arini Fukuoka snow white",
+    "alt": "Arini Fukuoka snow white (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-4.jpg",
+    "slot": "",
+    "order": 194,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-95",
+    "title": "Hokkaido anggun",
+    "alt": "Hokkaido anggun (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-5.jpg",
+    "slot": "",
+    "order": 195,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-96",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "",
+    "order": 196,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-97",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "",
+    "order": 197,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-98",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-2.jpg",
+    "slot": "",
+    "order": 198,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-99",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-3.jpg",
+    "slot": "",
+    "order": 199,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-100",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-4.jpg",
+    "slot": "",
+    "order": 200,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-101",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-5.jpg",
+    "slot": "",
+    "order": 201,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-102",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "",
+    "order": 202,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-103",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "",
+    "order": 203,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-104",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-2.jpg",
+    "slot": "",
+    "order": 204,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-105",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-3.jpg",
+    "slot": "",
+    "order": 205,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-106",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-4.jpg",
+    "slot": "",
+    "order": 206,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-107",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-5.jpg",
+    "slot": "",
+    "order": 207,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-108",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "",
+    "order": 208,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-109",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "",
+    "order": 209,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-110",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-2.jpg",
+    "slot": "",
+    "order": 210,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-111",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-3.jpg",
+    "slot": "",
+    "order": 211,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-112",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-4.jpg",
+    "slot": "",
+    "order": 212,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-113",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-5.jpg",
+    "slot": "",
+    "order": 213,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-114",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "",
+    "order": 214,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-115",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "",
+    "order": 215,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-116",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-2.jpg",
+    "slot": "",
+    "order": 216,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-117",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-3.jpg",
+    "slot": "",
+    "order": 217,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-118",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Alumni",
+    "src": "/sites/asahi/stock-4.jpg",
+    "slot": "",
+    "order": 218,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-119",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-5.jpg",
+    "slot": "",
+    "order": 219,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-120",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Kegiatan",
+    "src": "/sites/asahi/stock-0.jpg",
+    "slot": "",
+    "order": 220,
+    "source": "Unsplash; foto ilustrasi sementara"
+  },
+  {
+    "id": "gallery-121",
+    "title": "Foto Gallery",
+    "alt": "Foto Gallery (foto ilustrasi sementara)",
+    "category": "Foto Siswa",
+    "src": "/sites/asahi/stock-1.jpg",
+    "slot": "",
+    "order": 221,
+    "source": "Unsplash; foto ilustrasi sementara"
+  }
+]

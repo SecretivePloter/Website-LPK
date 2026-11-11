@@ -1,0 +1,242 @@
+[
+  {
+    "city": "Sapporo",
+    "prefecture": "Hokkaido",
+    "lat": "43.06180000",
+    "lng": "141.35450000",
+    "accepted": 23,
+    "year": 2025
+  },
+  {
+    "city": "Nagoya",
+    "prefecture": "Aichi",
+    "lat": "35.18150000",
+    "lng": "136.90660000",
+    "accepted": 18,
+    "year": 2025
+  },
+  {
+    "city": "Fukuoka",
+    "prefecture": "Fukuoka",
+    "lat": "33.59020000",
+    "lng": "130.40170000",
+    "accepted": 16,
+    "year": 2025
+  },
+  {
+    "city": "Chiba",
+    "prefecture": "Chiba",
+    "lat": "35.60730000",
+    "lng": "140.10630000",
+    "accepted": 7,
+    "year": 2025
+  },
+  {
+    "city": "Osaka",
+    "prefecture": "Osaka",
+    "lat": "34.69370000",
+    "lng": "135.50230000",
+    "accepted": 7,
+    "year": 2025
+  },
+  {
+    "city": "Tokyo",
+    "prefecture": "Tokyo",
+    "lat": "35.68950000",
+    "lng": "139.69170000",
+    "accepted": 6,
+    "year": 2025
+  },
+  {
+    "city": "Iwaki",
+    "prefecture": "Fukushima",
+    "lat": "37.05070000",
+    "lng": "140.88740000",
+    "accepted": 6,
+    "year": 2024
+  },
+  {
+    "city": "Mito",
+    "prefecture": "Ibaraki",
+    "lat": "36.36590000",
+    "lng": "140.47120000",
+    "accepted": 5,
+    "year": 2024
+  },
+  {
+    "city": "Kumamoto",
+    "prefecture": "Kumamoto",
+    "lat": "32.80310000",
+    "lng": "130.70790000",
+    "accepted": 5,
+    "year": 2025
+  },
+  {
+    "city": "Yokohama",
+    "prefecture": "Kanagawa",
+    "lat": "35.44370000",
+    "lng": "139.63800000",
+    "accepted": 4,
+    "year": 2025
+  },
+  {
+    "city": "Utsunomiya",
+    "prefecture": "Tochigi",
+    "lat": "36.55520000",
+    "lng": "139.88250000",
+    "accepted": 4,
+    "year": 2025
+  },
+  {
+    "city": "Aomori",
+    "prefecture": "Aomori",
+    "lat": "40.82207200",
+    "lng": "140.74736480",
+    "accepted": 3,
+    "year": 2024
+  },
+  {
+    "city": "Kofu",
+    "prefecture": "Yamanashi",
+    "lat": "35.66390000",
+    "lng": "138.56830000",
+    "accepted": 3,
+    "year": 2023
+  },
+  {
+    "city": "Naha",
+    "prefecture": "Okinawa",
+    "lat": "26.21230000",
+    "lng": "127.67920000",
+    "accepted": 3,
+    "year": null
+  },
+  {
+    "city": "Nagasaki",
+    "prefecture": "Nagasaki",
+    "lat": "32.75030000",
+    "lng": "129.87770000",
+    "accepted": 3,
+    "year": 2025
+  },
+  {
+    "city": "Shizuoka",
+    "prefecture": "Shizuoka",
+    "lat": "34.97560000",
+    "lng": "138.38250000",
+    "accepted": 3,
+    "year": null
+  },
+  {
+    "city": "Hiroshima",
+    "prefecture": "Hiroshima",
+    "lat": "34.38530000",
+    "lng": "132.45530000",
+    "accepted": 3,
+    "year": null
+  },
+  {
+    "city": "Matsumoto",
+    "prefecture": "Nagano",
+    "lat": "36.23800000",
+    "lng": "137.97200000",
+    "accepted": 3,
+    "year": 2025
+  },
+  {
+    "city": "Niigata",
+    "prefecture": "Niigata",
+    "lat": "37.91610000",
+    "lng": "139.03640000",
+    "accepted": 2,
+    "year": 2025
+  },
+  {
+    "city": "Otsu",
+    "prefecture": "Shiga",
+    "lat": "35.00440000",
+    "lng": "135.86830000",
+    "accepted": 2,
+    "year": 2025
+  },
+  {
+    "city": "Miyazaki",
+    "prefecture": "Miyazaki",
+    "lat": "31.90772447",
+    "lng": "131.42019671",
+    "accepted": 2,
+    "year": null
+  },
+  {
+    "city": "Gifu",
+    "prefecture": "Gifu",
+    "lat": "35.42264500",
+    "lng": "136.75404800",
+    "accepted": 2,
+    "year": 2024
+  },
+  {
+    "city": "Yamaguchi",
+    "prefecture": "Yamaguchi",
+    "lat": "34.17850000",
+    "lng": "131.47370000",
+    "accepted": 2,
+    "year": 2024
+  },
+  {
+    "city": "Matsuyama",
+    "prefecture": "Ehime",
+    "lat": "33.83920000",
+    "lng": "132.76560000",
+    "accepted": 1,
+    "year": null
+  },
+  {
+    "city": "Kawasaki",
+    "prefecture": "Kanagawa",
+    "lat": "35.53090000",
+    "lng": "139.70300000",
+    "accepted": 1,
+    "year": 2025
+  },
+  {
+    "city": "Takamatsu",
+    "prefecture": "Kagawa",
+    "lat": "34.34280000",
+    "lng": "134.04660000",
+    "accepted": 1,
+    "year": null
+  },
+  {
+    "city": "Hamamatsu",
+    "prefecture": "Shizuoka",
+    "lat": "34.71080000",
+    "lng": "137.72610000",
+    "accepted": 1,
+    "year": 2025
+  },
+  {
+    "city": "Nara",
+    "prefecture": "Nara",
+    "lat": "34.68510000",
+    "lng": "135.80480000",
+    "accepted": 1,
+    "year": null
+  },
+  {
+    "city": "Kyoto",
+    "prefecture": "Kyoto",
+    "lat": "35.01160000",
+    "lng": "135.76810000",
+    "accepted": 1,
+    "year": 2024
+  },
+  {
+    "city": "Wakayama",
+    "prefecture": "Wakayama",
+    "lat": "34.22610000",
+    "lng": "135.16750000",
+    "accepted": 1,
+    "year": 2022
+  }
+]

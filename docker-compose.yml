@@ -1,0 +1,13 @@
+services:
+  app:
+    build: .
+    ports:
+      - '3000:3000'
+    env_file: .env.local
+    environment:
+      DATA_DIR: /app/runtime-data
+    volumes:
+      - lpk-media:/app/runtime-data
+    restart: unless-stopped
+volumes:
+  lpk-media:
